@@ -79,12 +79,17 @@ a {
 }
 
 .icon {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     margin-right: 20px;
-    padding: 10px;
 
     img {
         width: 100%;
     }
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  margin: 10px 0px;
 }
