@@ -1,4 +1,9 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: Developer
+  company: GDG Algiers
+  dates: November 2019 - present
+  logo: gdg_algiers.png
+
+- role: Member
+  company: School of AI Algiers
+  dates: September 2019 - present
+  logo: soai.jpeg

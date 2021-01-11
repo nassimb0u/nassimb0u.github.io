@@ -1,10 +1,10 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
+- course: BE Computer Science
+  institute: Ecole nationale Superieure d'Informatique (ESI)
+  dates: 2018 - 2023 (expected)
+  logo: esi.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
+- course: Full-Stack Web Development Nanodegree
+  institute: Udacity
   dates: Fall 2020
-  logo: fellowship.svg
+  logo: udacity.png
   
